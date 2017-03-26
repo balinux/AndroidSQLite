@@ -57,8 +57,8 @@ public class CustomListAdapter extends BaseAdapter {
 //			imageView.setImageResource(R.drawable.ic_person_red_24dp);
 //		}
 
-		nama.setText("Nama : "+ m.get_nama());
-		namaakun.setText("Kelas : "+ m.get_kelas());
+		nama.setText("Nama Barang : "+ m.get_nama());
+		namaakun.setText("Jumlah : "+ m.get_kelas());
 
 		return convertView;
 	}

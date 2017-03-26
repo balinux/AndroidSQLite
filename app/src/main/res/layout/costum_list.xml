@@ -23,9 +23,10 @@
         android:layout_weight="5"
         android:layout_width="0dp"
         android:layout_height="wrap_content">
+
         <TextView
             android:textColor="@color/colorPrimary"
-            android:text="NAMA Barang"
+
             android:id="@+id/text_nama"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
